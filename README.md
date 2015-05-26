@@ -5,6 +5,6 @@ Blah
 ##Purpose
 Blah
 ##How to contribute
-Blha
+Please fork this repository and issue a Pull request
 
 2015 Dani
