@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    DAniel de Palol	dan@gmail.com
 
 # THANKS
 
