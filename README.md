@@ -7,4 +7,4 @@ Blah Blah Blah
 ##How to contribute
 Please fork this repository and issue a Pull request
 
-2015 Dani
+2015 Dani. All rights reserved
