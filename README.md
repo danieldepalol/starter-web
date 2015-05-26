@@ -1,5 +1,5 @@
 # starter-web
-Blah Blah Adding a line for rebasing example, then more changes from myfeature branch too
+Blah Blah Adding a line for rebasing example, then more changes from myfeature branch too. Blah
 ##Introduction
 Blah
 ##Purpose
