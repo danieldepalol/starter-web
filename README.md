@@ -1,9 +1,9 @@
 # starter-web
-Blah Blah
+Blah Blah Adding a line for rebasing example
 ##Introduction
 Blah
 ##Purpose
-Blah
+Blah Blah Blah
 ##How to contribute
 Please fork this repository and issue a Pull request
 
